@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 langchain==0.1.0
 chromadb==0.4.22
 sentence-transformers==2.3.1
@@ -5,3 +6,12 @@ huggingface-hub==0.20.3
 ollama==0.1.6
 tiktoken==0.5.2
 pydantic==2.5.3
+=======
+langchain==0.1.0
+chromadb==0.4.22
+sentence-transformers==2.3.1
+huggingface-hub==0.20.3
+ollama==0.1.6
+tiktoken==0.5.2
+pydantic==2.5.3
+>>>>>>> bd712ff86a74ca069b5a9866c9d6494c52558e43
