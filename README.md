@@ -1,4 +1,6 @@
 # AmbedkarGPT-Intern-Task
+
+<img width="1078" height="264" alt="image" src="https://github.com/user-attachments/assets/d9072298-3c23-4210-8b5e-b888a6138a83" />
  Key Features:
 
 Persistent Storage: Vector store is saved to disk, so subsequent runs are faster
@@ -12,5 +14,4 @@ System Flow:
 
 Load speech.txt → 2. Split into chunks → 3. Generate embeddings → 4. Store in ChromaDB → 5. User asks question → 6. Retrieve relevant chunks → 7. Feed to Mistral → 8. Get answer!
 
-<img width="1078" height="264" alt="image" src="https://github.com/user-attachments/assets/d9072298-3c23-4210-8b5e-b888a6138a83" />
 
